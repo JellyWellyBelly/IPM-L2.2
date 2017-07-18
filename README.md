@@ -3,6 +3,8 @@
 Interface of a restaurant with a table that has touch screen technology
 Techonogys used: HTML5, CSS, JavaScript
 
+For a better representation of the work involved in this project see: https://github.com/Anfifo/ProjIPM
+
 .: This is how our teacher presented us the problem (too long for me to translate it all correctly, maybe use google translate or even an underpaid and foreign friend :D) :.
 
 O bitoque chega sempre com o molho frio? Quando a Coca-Cola chega já tem a garganta encarquilhada com a sede? O bacalhau à lagareiro veio sem azeite? Não volte a esse restaurante com empregados humanos pouco eficicentes. Use o Com.ISTo, a maior revolução na restauração desde que alguém se lembrou de juntar chouriço ao caldo verde!
